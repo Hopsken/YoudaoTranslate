@@ -42,7 +42,7 @@ function setCustomClientId(argument) {
 }
 function setCustomApiKey(argument) {
   Action.preferences.API_KEY = argument
-  LaunchBar.alert('成功设置应用密钥！', `应用 ID 为：${argument}`, '确认')
+  LaunchBar.alert('成功设置应用密钥！', `应用密钥为：${argument}`, '确认')
 }
 
 /**
@@ -128,7 +128,7 @@ function parseBasic(obj) {
 function parseWeb(arr) {
   return arr.map(item => ({
     value: item.value.join('; '),
-    key: item.key
+    key: '网络释义：' + item.key
   }))
 }
 

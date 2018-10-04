@@ -7,9 +7,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.hopsken.LaunchBar.action.YoudaoTranslate</string>
 	<key>CFBundleName</key>
-	<string>Youdao Translate</string>
+	<string>有道翻译</string>
 	<key>CFBundleVersion</key>
-	<string>0.0.1</string>
+	<string>1.0.0</string>
 	<key>LBAbbreviation</key>
 	<string>yd</string>
 	<key>LBDescription</key>
