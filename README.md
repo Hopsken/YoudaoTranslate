@@ -45,5 +45,5 @@
 
 ## 四、参考资料
 
-[wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate)
-[blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)
++ [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate)
++ [blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)
