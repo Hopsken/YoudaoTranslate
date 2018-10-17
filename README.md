@@ -26,7 +26,7 @@
 
 ## 下载使用
 
-[从 Github 下载](https://github.com/Hopsken/YoudaoTranslate/archive/master.zip)
+[从 Github 下载](https://github.com/Hopsken/YoudaoTranslate/releases/download/v1.0.0/Youdao.Translate.zip)
 
 下载完成后打开压缩包，将其中的 `Youdao Translate.lbaction` 拖放到 `~/Library/Application Support/LaunchBar/Actions` 目录下。
 
@@ -45,5 +45,8 @@
 
 ## 参考资料
 
-[wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate)
-[blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)
++ [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate)
++ [blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)
+
+## 更新日志
+[CHANGELOG](./CHANGELOG.md)
