@@ -8,29 +8,29 @@
 
 ##  一、特性
 
-### 1.支持中英文互翻
+1. 支持中英文互翻
 
-### 2.支持 Instant Send 功能
+2. 支持 Instant Send 功能
 
-### 3.支持整句翻译
+3. 支持整句翻译
 
-### 4.支持显示多种释义
+4. 支持显示多种释义
 <p align="center">
     <img 
     alt="screentshot_1.png"
     src="https://github.com/Hopsken/YoudaoTranslate/raw/master/screenshots/screenshot_2.png" />
 </p>
 
-### 5.支持快速预览 `Cmd + Y`
+5. 支持快速预览 `Cmd + Y`
 ![screentshot_3: Quick Look](https://github.com/Hopsken/YoudaoTranslate/raw/master/screenshots/screenshot_3.gif)
 
-## 二、下载使用
+## 下载使用
 
 [从 Github 下载](https://github.com/Hopsken/YoudaoTranslate/archive/master.zip)
 
 下载完成后打开压缩包，将其中的 `Youdao Translate.lbaction` 拖放到 `~/Library/Application Support/LaunchBar/Actions` 目录下。
 
-## 三、配置 Keys
+### 配置 Keys
 
 由于有道翻译 API 迁移到了有道智云，所以大家需要去[有道智云](http://ai.youdao.com/)进行注册然后创建应用才能使用。步骤如下：
 
@@ -43,7 +43,7 @@
 ![screentshot_3: Quick Look](https://github.com/Hopsken/YoudaoTranslate/raw/master/screenshots/screenshot_4.gif)
 
 
-## 四、参考资料
+## 参考资料
 
 [wensonsmith/YoudaoTranslate](https://github.com/wensonsmith/YoudaoTranslate)
 [blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)

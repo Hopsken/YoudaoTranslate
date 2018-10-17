@@ -86,9 +86,20 @@ function getTranslations(word) {
           title: item.value,
           subtitle: item.key || '',
           alwaysShowsSubtitle: true,
+          action: 'saveToClipboard',
+          actionArgument: item.value,
           quickLookURL: `https://youdao.com/w/${word}`
       }
   })
+}
+
+/**
+ * 将翻译结果保存至剪切板，并打印上前置 app 
+ * @param result string
+ */
+function saveToClipboard(result) {
+  LaunchBar.executeAppleScript(`set the clipboard to "${result}"`)
+  LaunchBar.paste(result)
 }
 
 /**
